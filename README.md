@@ -29,7 +29,7 @@ DemoProduct is an Android application that demonstrates a modern product browsin
 
 ## Getting Started
 
-1.  Clone the repository:  `git clone [repository URL]`
+1.  Clone the repository:  `https://github.com/DevEmdad588/demo-product-app/tree/main`
 2.  Open in Android Studio:  Import the project into Android Studio.
 3.  Build and Run:  Build the project and run it on an emulator or physical device.
 
