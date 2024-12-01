@@ -47,4 +47,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## Contact
 
-[Your Name/Project Maintainers] - [Email Address/Website]
+[Emdad Hossain] - [devemdadhossain@gmail.com]
