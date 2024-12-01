@@ -24,7 +24,7 @@ DemoProduct is an Android application that demonstrates a modern product browsin
 
 ## Pictures
 
-![Product Browsing Screen](screenshots/product_browsing.png)
+![Product Browsing Screen](demoproduct.png)
 
 
 ## Getting Started
